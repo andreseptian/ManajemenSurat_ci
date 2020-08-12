@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Apa itu Zerosicks
 ###################
 
 Zerosicks adalah Aplikasi berbasis web menggunakan Framework CodeIgniter. 
